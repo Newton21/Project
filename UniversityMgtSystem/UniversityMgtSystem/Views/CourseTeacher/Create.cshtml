@@ -1,0 +1,133 @@
+﻿@model UniversityMgtSystem.Models.CourseTeacher
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>CourseTeacher</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DepartmentId, "Department", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("DepartmentId", null, "Select Department", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.DepartmentId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TeacherId, "Teacher", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("TeacherId", null,"Select Teacher",new{@class="form-control"})
+                @Html.ValidationMessageFor(model => model.TeacherId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="assignTeacher" class="col-sm-2 control-label"> Assign To Be Taken</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" readonly="" id="assignTeacher">
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label for="RemainingCredit" class="col-sm-2 control-label">Remainig Credit</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" readonly="" id="RemainingCredit">
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CourseId, "Course Code", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("CourseId",null,"Select Course",new{@class="form-control"})
+                @Html.ValidationMessageFor(model => model.CourseId)
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label for="CourseName" class="col-sm-2 control-label">Name</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" readonly="" id="CourseName">
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label for="CourseCredit" class="col-sm-2 control-label">Credit</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" readonly="" id="CourseCredit">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script>
+        $(document).ready(function() {
+            $("#CourseId").change(function() {
+                var optionSelected = $(this).find("option:selected");
+                var valueSelected = optionSelected.val();
+                var textSelected = optionSelected.text();
+                var json = { CourseId: valueSelected };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetCourseInfo", "AjaxCall")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    dataType: "json",
+                    success: function(data) {
+                        $("#CourseName").val(data.Name);
+                        $("#CourseCredit").val(data.Credit);
+
+                    },
+                });
+
+            });
+
+            $("#TeacherId").change(function() {
+                var optionSelected = $(this).find("option:selected");
+                var valueSelected = optionSelected.val();
+                var textSelected = optionSelected.text();
+                var json = { TeacherId: valueSelected };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("TeacherCourseInfo", "AjaxCall")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    dataType: "json",
+                    success: function (data) {
+                        $("#assignTeacher").val(data.Assign);
+                        var remain = data.Assign - data.Remaining;
+                        $("#RemainingCredit").val(remain);
+                        
+
+                    },
+
+                });
+                
+            });
+        });
+        </script>
+
+        }

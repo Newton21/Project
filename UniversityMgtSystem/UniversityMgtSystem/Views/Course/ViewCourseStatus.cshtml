@@ -1,0 +1,58 @@
+﻿@model UniversityMgtSystem.Models.Course
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>View Course Status</h2>
+<div class="form-horizontal">
+    <div class="form-group">
+        @Html.LabelFor(model => model.DepartmentId, "Department", new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("DepartmentId", null, "Select Department", new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.DepartmentId)
+        </div>
+    </div>
+    <table class="table table-bordered" id="courseInfo">
+        <thead>
+            <tr><th>Code</th><th>Name/Title</th><th>Semester</th><th>Assign To teacher</th></tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script>
+        $(document).ready(function() {
+
+
+            $("#DepartmentId").change(function () {
+                var optionSelected = $(this).find("option:selected");
+                var valueSelected = optionSelected.val();
+                var textSelected = optionSelected.text();
+                var json = { DepartmentId: valueSelected };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("CourseDepartmentInfo", "AjaxCall")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    dataType: "json",
+                    success: function (data) {
+                        $("#courseInfo tbody").html("");
+                        $.each(data, function (key, value) {
+                            $("#courseInfo tbody").append("<tr><td>" + value.Code + "</td><td>" + value.Name + "</td><td>" + value.Semester + "</td><td>" + value.TeacherName + "</td></tr>");
+
+                        });
+
+
+                    },
+
+                });
+
+            });
+        });
+    </script>
+
+}
