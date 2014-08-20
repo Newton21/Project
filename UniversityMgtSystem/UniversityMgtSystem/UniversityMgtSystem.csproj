@@ -163,7 +163,9 @@
     <Compile Include="Controllers\CourseController.cs" />
     <Compile Include="Controllers\CourseTeacherController.cs" />
     <Compile Include="Controllers\DepartmentController.cs" />
+    <Compile Include="Controllers\EnrollCourseController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ResultEntryController.cs" />
     <Compile Include="Controllers\StudentController.cs" />
     <Compile Include="Controllers\TeacherController.cs" />
     <Compile Include="Global.asax.cs">
@@ -209,9 +211,13 @@
     <Compile Include="Migrations\201208061248258_studentuypdate.Designer.cs">
       <DependentUpon>201208061248258_studentuypdate.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201408130850343_tea.cs" />
-    <Compile Include="Migrations\201408130850343_tea.Designer.cs">
-      <DependentUpon>201408130850343_tea.cs</DependentUpon>
+    <Compile Include="Migrations\201208131201007_enroll.cs" />
+    <Compile Include="Migrations\201208131201007_enroll.Designer.cs">
+      <DependentUpon>201208131201007_enroll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201208131255037_result.cs" />
+    <Compile Include="Migrations\201208131255037_result.Designer.cs">
+      <DependentUpon>201208131255037_result.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -219,8 +225,11 @@
     <Compile Include="Models\CourseTeacher.cs" />
     <Compile Include="Models\Department.cs" />
     <Compile Include="Models\Designation.cs" />
+    <Compile Include="Models\EnrollCourse.cs" />
+    <Compile Include="Models\Grade.cs" />
     <Compile Include="Models\IdentityModels.cs" />
-    <Compile Include="Models\ProjectDB.cs" />
+    <Compile Include="Models\ProjectDb.cs" />
+    <Compile Include="Models\ResultEntry.cs" />
     <Compile Include="Models\Semester.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Models\Teacher.cs" />
@@ -228,6 +237,7 @@
     <Compile Include="Startup.cs" />
     <Compile Include="ViewModel\DepartmentCourseSemester.cs" />
     <Compile Include="ViewModel\TeacherCourseCreditInfo.cs" />
+    <Compile Include="Models\ViewResultModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
@@ -246,11 +256,14 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\jspdf.debug.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -285,6 +298,11 @@
     <Content Include="Views\Course\Details.cshtml" />
     <Content Include="Views\Course\Edit.cshtml" />
     <Content Include="Views\Course\Index.cshtml" />
+    <Content Include="Views\Teacher\Create.cshtml" />
+    <Content Include="Views\Teacher\Delete.cshtml" />
+    <Content Include="Views\Teacher\Details.cshtml" />
+    <Content Include="Views\Teacher\Edit.cshtml" />
+    <Content Include="Views\Teacher\Index.cshtml" />
     <Content Include="Views\CourseTeacher\Create.cshtml" />
     <Content Include="Views\CourseTeacher\Delete.cshtml" />
     <Content Include="Views\CourseTeacher\Details.cshtml" />
@@ -296,11 +314,18 @@
     <Content Include="Views\Student\Details.cshtml" />
     <Content Include="Views\Student\Edit.cshtml" />
     <Content Include="Views\Student\Index.cshtml" />
-    <Content Include="Views\Teacher\Create.cshtml" />
-    <Content Include="Views\Teacher\Delete.cshtml" />
-    <Content Include="Views\Teacher\Details.cshtml" />
-    <Content Include="Views\Teacher\Edit.cshtml" />
-    <Content Include="Views\Teacher\Index.cshtml" />
+    <Content Include="Views\EnrollCourse\Create.cshtml" />
+    <Content Include="Views\EnrollCourse\Delete.cshtml" />
+    <Content Include="Views\EnrollCourse\Details.cshtml" />
+    <Content Include="Views\EnrollCourse\Edit.cshtml" />
+    <Content Include="Views\EnrollCourse\Index.cshtml" />
+    <Content Include="Views\ResultEntry\Create.cshtml" />
+    <Content Include="Views\ResultEntry\Delete.cshtml" />
+    <Content Include="Views\ResultEntry\Details.cshtml" />
+    <Content Include="Views\ResultEntry\Edit.cshtml" />
+    <Content Include="Views\ResultEntry\Index.cshtml" />
+    <Content Include="Views\ResultEntry\ViewResult.cshtml" />
+    <Content Include="Views\Shared\_ViewResult.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -343,8 +368,11 @@
     <EmbeddedResource Include="Migrations\201208061248258_studentuypdate.resx">
       <DependentUpon>201208061248258_studentuypdate.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201408130850343_tea.resx">
-      <DependentUpon>201408130850343_tea.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201208131201007_enroll.resx">
+      <DependentUpon>201208131201007_enroll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201208131255037_result.resx">
+      <DependentUpon>201208131255037_result.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -28,7 +28,9 @@ namespace UniversityMgtSystem.Models
         public virtual Department Department { set; get; }
         public virtual Semester Semester { set; get; }
 
-        public virtual ICollection<CourseTeacher> CourseTeachers { set; get; } 
+        public virtual ICollection<CourseTeacher> CourseTeachers { set; get; }
+        public virtual ICollection<EnrollCourse> EnrollCourses { set; get; }
+        public virtual ICollection<ResultEntry> ResultEntries { set; get; } 
 
 
     }

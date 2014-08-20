@@ -180,7 +180,6 @@ J:\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Securit
 J:\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Google.xml
 J:\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Twitter.xml
 J:\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-J:\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.csprojResolveAssemblyReference.cache
 J:\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.Init.resources
 J:\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.Init2.resources
 J:\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.Course.resources
@@ -194,70 +193,139 @@ J:\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSys
 J:\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.csproj.GenerateResource.Cache
 J:\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.dll
 J:\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.pdb
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\UniversityMgtSystem.dll.config
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\UniversityMgtSystem.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\UniversityMgtSystem.pdb
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Antlr3.Runtime.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\EntityFramework.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\EntityFramework.SqlServer.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.Core.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.Owin.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Cookies.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Facebook.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Google.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.OAuth.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Twitter.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Web.Infrastructure.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Newtonsoft.Json.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Owin.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Helpers.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Mvc.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Optimization.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Razor.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.Deployment.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.Razor.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\WebGrease.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Helpers.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Mvc.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Optimization.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Razor.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.Deployment.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.Razor.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Newtonsoft.Json.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Antlr3.Runtime.pdb
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\EntityFramework.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\EntityFramework.SqlServer.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.Core.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.Owin.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Facebook.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Cookies.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.OAuth.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Google.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Twitter.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.csprojResolveAssemblyReference.cache
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.Init.resources
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.Init2.resources
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.Course.resources
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.update.resources
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.teacher.resources
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.teacherupdate.resources
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.student.resources
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.studentupdate.resources
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.courseteacher.resources
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.studentuypdate.resources
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.csproj.GenerateResource.Cache
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.dll
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.pdb
-J:\Project Update\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.tea.resources
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\UniversityMgtSystem.dll.config
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\UniversityMgtSystem.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\UniversityMgtSystem.pdb
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Antlr3.Runtime.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\EntityFramework.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\EntityFramework.SqlServer.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Google.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Newtonsoft.Json.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Owin.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Helpers.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Mvc.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Optimization.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Razor.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.Deployment.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.Razor.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\WebGrease.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Helpers.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Mvc.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Optimization.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Razor.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.Deployment.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.Razor.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Newtonsoft.Json.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Antlr3.Runtime.pdb
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\EntityFramework.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\EntityFramework.SqlServer.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Google.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.Init.resources
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.Init2.resources
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.Course.resources
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.update.resources
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.teacher.resources
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.teacherupdate.resources
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.student.resources
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.studentupdate.resources
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.courseteacher.resources
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.studentuypdate.resources
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.csproj.GenerateResource.Cache
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.dll
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.pdb
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.enroll.resources
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.result.resources
+E:\web\New folder\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.csprojResolveAssemblyReference.cache
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\UniversityMgtSystem.dll.config
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\UniversityMgtSystem.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\UniversityMgtSystem.pdb
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Antlr3.Runtime.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\EntityFramework.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\EntityFramework.SqlServer.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Google.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Newtonsoft.Json.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Owin.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Helpers.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Mvc.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Optimization.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Razor.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.Deployment.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.Razor.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\WebGrease.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Helpers.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Mvc.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Optimization.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.Razor.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.Deployment.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\System.Web.WebPages.Razor.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Newtonsoft.Json.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Antlr3.Runtime.pdb
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\EntityFramework.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\EntityFramework.SqlServer.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Google.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.csprojResolveAssemblyReference.cache
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.Init.resources
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.Init2.resources
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.Course.resources
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.update.resources
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.teacher.resources
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.teacherupdate.resources
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.student.resources
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.studentupdate.resources
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.courseteacher.resources
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.studentuypdate.resources
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.enroll.resources
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.Migrations.result.resources
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.csproj.GenerateResource.Cache
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.dll
+D:\projectupdate\UniversityMgtSystem\UniversityMgtSystem\obj\Debug\UniversityMgtSystem.pdb

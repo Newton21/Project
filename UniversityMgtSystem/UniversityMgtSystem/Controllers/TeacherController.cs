@@ -12,7 +12,7 @@ namespace UniversityMgtSystem.Controllers
 {
     public class TeacherController : Controller
     {
-        private ProjectDB db = new ProjectDB();
+        private ProjectDb db = new ProjectDb();
 
         // GET: /Teacher/
         public ActionResult Index()
@@ -131,6 +131,19 @@ namespace UniversityMgtSystem.Controllers
                 db.Dispose();
             }
             base.Dispose(disposing);
+        }
+
+        public JsonResult EmailExists(string email)
+        {
+            var user = db.Teachers.FirstOrDefault(u => u.Email == (string)email);
+            if (user != null)
+            {
+                return Json(false, JsonRequestBehavior.AllowGet);
+            }
+            else
+            {
+                return Json(true, JsonRequestBehavior.AllowGet);
+            }
         }
     }
 }

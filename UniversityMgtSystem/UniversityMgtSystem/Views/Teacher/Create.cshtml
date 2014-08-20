@@ -60,13 +60,13 @@
         <div class="form-group">
             @Html.LabelFor(model => model.DesignationId, "DesignationId", new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.DropDownList("DesignationId", null, "Select designation", new { @class = "form-control" })
+                @Html.DropDownList("DesignationId", null, "Select Designation", new { @class = "form-control" })
                 @Html.ValidationMessageFor(model => model.DesignationId)
             </div>
         </div>
 
         <div class="form-group">
-            @Html.LabelFor(model => model.DepartmentId, "DepartmentId", new { @class = "control-label col-md-2" })
+            @Html.LabelFor(model => model.DepartmentId, "DepartmentName", new { @class = "control-label col-md-2" })
             <div class="col-md-10">
                 @Html.DropDownList("DepartmentId", null, "Select Department", new { @class = "form-control" })
                 @Html.ValidationMessageFor(model => model.DepartmentId)

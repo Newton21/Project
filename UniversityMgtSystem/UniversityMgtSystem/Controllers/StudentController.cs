@@ -12,7 +12,7 @@ namespace UniversityMgtSystem.Controllers
 {
     public class StudentController : Controller
     {
-        private ProjectDB db = new ProjectDB();
+        private ProjectDb db = new ProjectDb();
 
         // GET: /Student/
         public ActionResult Index()

@@ -8,14 +8,14 @@ namespace UniversityMgtSystem.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<UniversityMgtSystem.Models.ProjectDB>
+    internal sealed class Configuration : DbMigrationsConfiguration<UniversityMgtSystem.Models.ProjectDb>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(UniversityMgtSystem.Models.ProjectDB context)
+        protected override void Seed(UniversityMgtSystem.Models.ProjectDb context)
         {
             //var Departments = new List<Department>
             //{
@@ -57,6 +57,19 @@ namespace UniversityMgtSystem.Migrations
             // };
             //Designations.ForEach(s => context.Designations.AddOrUpdate(s));
             //context.SaveChanges();
+
+            //var grades = new List<Grade>
+            //{
+            //    new Grade {GradeLetter = "A+"},
+            //    new Grade {GradeLetter = "A"},
+            //    new Grade {GradeLetter = "A-"},
+            //    new Grade {GradeLetter = "B+"},
+            //    new Grade {GradeLetter = "B"},
+            //    new Grade {GradeLetter = "C"},
+            //    new Grade {GradeLetter = "D"},
+            //    new Grade {GradeLetter = "F"},
+            //};
+            //grades.ForEach(g => context.Grades.AddOrUpdate(g));
 
 
         }

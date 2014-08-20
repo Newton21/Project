@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -29,6 +30,10 @@ namespace UniversityMgtSystem.Models
         [Required]
         public int DepartmentId { get; set; }
         public virtual Department Department { get; set; }
+
+        public virtual ICollection<EnrollCourse> EnrollCourses { get; set; }
+        public virtual ICollection<ResultEntry> ResultEntries { set; get; } 
+
 
 
     }

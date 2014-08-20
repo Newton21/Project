@@ -9,7 +9,7 @@ namespace UniversityMgtSystem.Controllers
     public class AjaxCallController : Controller
     {
 
-        private ProjectDB db = new ProjectDB();
+        private ProjectDb db = new ProjectDb();
 
         public ActionResult GetCourseInfo(int CourseId)
         {

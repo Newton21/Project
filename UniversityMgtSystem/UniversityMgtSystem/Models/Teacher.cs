@@ -23,7 +23,7 @@ namespace UniversityMgtSystem.Models
          [Required(ErrorMessage = " enter contact no")]
         public string ContactNo { get; set; }
          [Required(ErrorMessage = " enter credit")]
-        public double Credit { get; set; }
+        public int Credit { get; set; }
 
          [Required(ErrorMessage = " enter designation")]
 

@@ -7,13 +7,13 @@ namespace UniversityMgtSystem.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.0.0-20911")]
-    public sealed partial class tea : IMigrationMetadata
+    public sealed partial class result : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(tea));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(result));
         
         string IMigrationMetadata.Id
         {
-            get { return "201408130850343_tea"; }
+            get { return "201208131255037_result"; }
         }
         
         string IMigrationMetadata.Source

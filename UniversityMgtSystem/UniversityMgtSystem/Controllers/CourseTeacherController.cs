@@ -12,7 +12,7 @@ namespace UniversityMgtSystem.Controllers
 {
     public class CourseTeacherController : Controller
     {
-        private ProjectDB db = new ProjectDB();
+        private ProjectDb db = new ProjectDb();
 
         // GET: /CourseTeacher/
         public ActionResult Index()

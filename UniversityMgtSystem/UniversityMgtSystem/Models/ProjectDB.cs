@@ -6,7 +6,8 @@ using System.Web;
 
 namespace UniversityMgtSystem.Models
 {
-    public class ProjectDB:DbContext
+    public class ProjectDb:DbContext
+
     {
         public DbSet<Department> Departments { set; get; }
         public DbSet<Course> Courses { set; get; }
@@ -18,6 +19,9 @@ namespace UniversityMgtSystem.Models
 
         public DbSet<Student> Students { set; get; }
 
-        public DbSet<CourseTeacher> CourseTeachers { set; get; } 
+        public DbSet<CourseTeacher> CourseTeachers { set; get; }
+        public DbSet<EnrollCourse> EnrollCourses { set; get; }
+        public DbSet<ResultEntry> ResultEntries { set; get; }
+        public DbSet<Grade> Grades { set; get; } 
     }
 }
