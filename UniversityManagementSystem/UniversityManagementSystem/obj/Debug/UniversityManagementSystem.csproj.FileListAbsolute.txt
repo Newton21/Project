@@ -1,0 +1,182 @@
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.department.resources
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.student.resources
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.enroll.resources
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.result.resources
+D:\All Softs\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.room.resources
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.department.resources
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.student.resources
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.enroll.resources
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.result.resources
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.room.resources
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+K:\10 June 2014\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\final\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.department.resources
+E:\final\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.student.resources
+E:\final\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.enroll.resources
+E:\final\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.result.resources
+E:\final\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.room.resources
+E:\final\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+E:\final\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+E:\final\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+E:\final\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.teacher.resources
